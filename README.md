@@ -1,7 +1,5 @@
-[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=fhuegli&repository=shellinabox)](https://hub.docker.com/r/fhuegli/shellinabox/builds/)
-
-# docker-shellinabox
-shellinabox for docker based on alpine linux https://hub.docker.com/r/fhuegli/shellinabox/
+# shellinabox
+shellinabox for docker based on alpine linux https://hub.docker.com/r/zhezack/shellinabox
 
 ## Configuration
 ### Available Environment Variables
